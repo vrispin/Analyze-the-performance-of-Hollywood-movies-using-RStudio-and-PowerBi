@@ -38,7 +38,7 @@ Steps: explore the data, clean data, create a bar chart and scatter plot in RStu
 
 ![Screenshot 2024-06-07 104814](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/0fff38e6-c4b8-4c55-97c4-7e0e65013bb1)
 
-**Visualization # 8 is **
+**Visualization # 8 is Movie Rating by Audience Score**
 
 ![Screenshot 2024-06-07 110922](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/aba53643-a34f-4bf3-95bf-3df8850aaf09)
 
