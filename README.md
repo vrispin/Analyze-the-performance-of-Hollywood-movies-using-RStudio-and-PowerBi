@@ -42,11 +42,11 @@ Steps: explore the data, clean data, create a bar chart and scatter plot in RStu
 
 ![Screenshot 2024-06-07 110922](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/aba53643-a34f-4bf3-95bf-3df8850aaf09)
 
-**Visualization # 9 is** 
+**Visualization # 9 is Profitability by Lead Studio** 
 
 ![Screenshot 2024-06-07 112204](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/2ac498e4-3475-4f5a-a4ef-c36b1d54839f)
 
-Visualization # 10 is Worldwide Gross by genre
+**Visualization # 10 is Worldwide Gross by genre**
 
 ![Screenshot 2024-06-07 113759](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/b9627c68-7ee4-4792-8d1e-98d5db7fef8e)
 ![Screenshot 2024-06-07 113817](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/da6e47ac-5012-4f30-b66b-2c5efd97e66b)
