@@ -5,7 +5,7 @@ Client requirements: The client has requested the use of their brand colors gree
 
 Steps: explore the data, clean data, create a bar chart and scatter plot in RStudio. Next take the cleaned file and import into PowerBi and create the required visuals.
 
-**Visualization #1 below is data cleaning and steps to create a scatter plot in RStudio**
+**The image below #1 below is data cleaning and steps to create a scatter plot in RStudio**
 
 ![Screenshot 2024-06-06 115908](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/ff29cc51-770d-4596-87bb-c9a69432b398)
 
