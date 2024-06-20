@@ -30,7 +30,7 @@ Steps: explore the data, clean data, create a bar chart and scatter plot in RStu
 ![Screenshot 2024-06-07 103446](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/14ca14f2-dd22-4012-8c2d-4589bee752d6)
 
 
-**Visualization # 6 is** 
+**Visualization # 6 is Number of Movies Produced by Year** 
 
 ![Screenshot 2024-06-07 104703](https://github.com/vrispin/analyze-the-performance-of-Hollywood-movies-using-RStudio-and-PowerBi/assets/168829883/6245753c-a6e9-4735-b274-f7bc004d3c8c)
 
