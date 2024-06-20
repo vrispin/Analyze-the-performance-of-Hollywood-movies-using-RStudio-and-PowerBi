@@ -1,5 +1,3 @@
-Analyze the performance of Hollywood movies using RStudio and PowerBi
-
 Aim of the project: To analyze the performance of Hollywood movies using RStudio and PowerBi.
 
 Data: Title, genre, studio, profitability and ratings for movies released 2007-2012. Source: InformationIsBeautiful.net
